@@ -1,0 +1,9 @@
+This document created by kumar talakola
+Git Basic commands
+Git init
+git add file
+git status
+git commit -m "added new line"
+git pull -- Latest changes and version
+git clone --- clone repository 
+git push  -- to move your code from local to remote
